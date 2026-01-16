@@ -1,6 +1,6 @@
 ## Welcome to the DYNAMITEHEAD TNTSON (The Groovy Demo)'s assets repository!
 
-Here you'll find source .fla files for all in-game graphics.
+Here you'll find .fla files for all in-game graphics.
 
 In order to open said assets, you'll need a spare copy of **Macromedia Flash 8**. You can also use any version of **Adobe Flash** and **Adobe Animate**.
 
